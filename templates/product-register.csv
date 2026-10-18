@@ -1,0 +1,5 @@
+Code,Element,Product,Supplier,Colour / Finish,Size / Format,Notes
+FL-01,Floor,EXAMPLE Engineered oak,EXAMPLE Supplier,Natural matt,190mm board,Replace these example rows with your own products
+WF-01,Wall,EXAMPLE Low-sheen acrylic,EXAMPLE Supplier,Warm white,,
+CF-01,Ceiling,EXAMPLE Flat ceiling paint,EXAMPLE Supplier,Ceiling white,,
+SK-01,Base,EXAMPLE MDF skirting painted,EXAMPLE Supplier,To match WF-01,90mm,
