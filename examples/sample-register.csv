@@ -1,0 +1,13 @@
+Code,Element,Product,Supplier,Colour / Finish,Size / Format,Slip Rating,Fire Rating,Wet Area OK,Lead Time (weeks),Warranty,Source,Notes
+FL-01,Floor,Engineered oak,Example Timber Co,Natural matt,190mm board,P2,not stated,No,6,25 yr structural,example-timber.pdf,
+FL-02,Floor,Loop pile carpet tile,Example Carpets,Charcoal,500x500,not stated,CRF 4.5 kW/m2,No,4,15 yr,example-carpet.pdf,
+FL-03,Floor,Porcelain tile,Example Tiles,Warm grey honed,600x600,P4,not stated,Yes,8,not stated,example-tiles.pdf,
+FL-04,Floor,Sheet vinyl,Example Resilient,Pale ash,2m roll,not stated,CRF 4.5 kW/m2,Yes,3,10 yr,example-vinyl.pdf,
+WF-01,Wall,Low-sheen acrylic,Example Paints,Warm white,,,not stated,No,1,not stated,example-paints.pdf,
+WF-02,Wall,Semi-gloss acrylic (wet area),Example Paints,Warm white,,,not stated,Yes,1,not stated,example-paints.pdf,
+WF-03,Wall,Timber veneer panel,Example Joinery Supply,Blackbutt,2400x1200,,Group 3,No,16,not stated,example-veneer.pdf,
+CF-01,Ceiling,Flat ceiling paint,Example Paints,Ceiling white,,,not stated,No,1,not stated,example-paints.pdf,
+CF-02,Ceiling,Acoustic ceiling tile,Example Acoustics,White,600x600,,Group 1,No,6,not stated,example-acoustic.pdf,
+CF-03,Ceiling,Moisture-resistant ceiling paint,Example Paints,Ceiling white,,,not stated,Yes,1,not stated,example-paints.pdf,
+SK-01,Base,MDF skirting painted,Example Joinery Supply,To match wall,90mm,,not stated,No,2,not stated,example-joinery.pdf,
+SK-02,Base,Porcelain cove skirting,Example Tiles,Warm grey,100mm,,not stated,Yes,8,not stated,example-tiles.pdf,

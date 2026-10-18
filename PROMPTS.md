@@ -32,6 +32,26 @@ Copy, tweak, send. Each one assumes your product register is uploaded to the pro
 
 > Draft an RFI to the joinery contractor asking for a substitute for WF-03, which has a 12 week lead time.
 
+## Supplier sheets
+
+> I've uploaded 3 supplier PDFs. Add every product in them to the register.
+
+> Read this product page and give me register rows: [paste link]
+
+## QA check
+
+> Run a QA check on the current schedule against the register and spec. We need to order finishes 10 weeks before install.
+
+> Only show me High severity issues.
+
+## Revisions
+
+> What changed between rev B and rev C? Draft the transmittal note to the builder.
+
+## Quote emails
+
+> Draft quote request emails to each supplier for everything in rev C. Ask for samples of anything on levels 1 and 3.
+
 ## Starting from supplier sheets instead of a register
 
-> I've uploaded 6 supplier PDFs. Build me a product register in the same format as product-register.csv, assigning codes FL-, WF-, CF-, SK- in order. Only include products actually in the PDFs.
+> I've uploaded 6 supplier PDFs. Build me a product register in the same format as product-register.csv. Only include products actually in the PDFs.

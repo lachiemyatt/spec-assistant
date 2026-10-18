@@ -1,0 +1,7 @@
+Level,Room Number,Room Name,Floor Finish,Wall Finish,Ceiling Finish,Base Finish,Notes
+L01,101,Reception,FL-01,WF-01,CF-01,SK-01,
+L01,102,Bathroom,FL-03,WF-02,CF-03,SK-02,
+L01,105,Store,FL-04,WF-01,CF-01,SK-01,
+L02,201,Open Plan,FL-02,WF-01,CF-01,SK-01,
+L02,202,Kitchenette,FL-04,WF-02,CF-03,SK-02,
+L03,301,Boardroom,FL-02,WF-01,CF-02,SK-01,
